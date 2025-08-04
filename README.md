@@ -37,6 +37,8 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 ## 🛠️ Tech Arsenal
 
+<div align="center">
+
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -63,15 +65,27 @@ console.log("Welcome to my GitHub profile! 🚀");
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
+
 ---
 
 ## 🏆 Competitive Programming Journey
 
-| Platform | Problems Solved | Profile |
-|----------|----------------|---------|
-| 🟡 **LeetCode** | 220+ | [View Profile](https://leetcode.com/u/Parth_69/) |
-| 🍴 **CodeChef** | 300+ | [View Profile](https://www.codechef.com/users/parthkulkarni0) |
-| 🟢 **GeeksforGeeks** | 60+ | [View Profile](https://www.geeksforgeeks.org/user/kulkarnidrf8/) |
+<div align="center">
+
+### 🟡 LeetCode
+**220+ Problems Solved**  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Parth_69/)
+
+### 🍴 CodeChef  
+**300+ Problems Solved**  
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/parthkulkarni0)
+
+### 🟢 GeeksforGeeks
+**60+ Problems Solved**  
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kulkarnidrf8/)
+
+</div>
 
 ---
 
