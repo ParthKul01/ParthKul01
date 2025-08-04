@@ -83,10 +83,9 @@ const parth = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&border_color=00ffcc&title_color=00ffcc)](https://github.com/yourusername/project1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&border_color=00ffcc&title_color=00ffcc)](https://github.com/yourusername/project2)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=tokyonight&border_color=00ffcc&title_color=00ffcc)](https://github.com/yourusername/project3)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=tokyonight&border_color=00ffcc&title_color=00ffcc)](https://github.com/yourusername/project4)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ParthKul01&repo=File_Storing_Using_AWS&theme=tokyonight&border_color=00ffcc&title_color=00ffcc)](https://github.com/ParthKul01/File_Storing_Using_AWS)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ParthKul01&repo=Blood_Donation&theme=tokyonight&border_color=00ffcc&title_color=00ffcc)](https://github.com/ParthKul01/Blood_Donation)
 
 </div>
 
