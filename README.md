@@ -52,6 +52,25 @@ const parth: Developer = {
 };
 ```
 
+### 🚀 Quick Facts
+- 💻 **580+ DSA Problems** solved across platforms
+- 📚 **4+ Years** of coding experience
+- ⚡ **15+ Projects** built and deployed
+- 🎯 **Top 10%** in university academics
+- 🌟 **Open Source** contributor
+- 🔥 **100+ Days** coding streak on GitHub
+
+### 🎵 When I'm Not Coding
+```javascript
+const myInterests = {
+  music: "🎧 Lo-fi & Electronic beats while coding",
+  sports: "🏸 Badminton enthusiast",  
+  reading: "📖 Tech blogs & system design articles",
+  gaming: "🎮 Strategy games for logical thinking",
+  coffee: "☕ Fuel for late-night debugging sessions"
+};
+```
+
 <br clear="right"/>
 
 ---
