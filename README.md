@@ -1,89 +1,131 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██████╗ ████████╗██╗  ██╗   ██████╗ ███████╗██╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║   ██╔══██╗██╔════╝██║   ██║
-██████╔╝███████║██████╔╝   ██║   ███████║   ██║  ██║█████╗  ██║   ██║
-██╔═══╝ ██╔══██║██╔══██╗   ██║   ██╔══██║   ██║  ██║██╔══╝  ╚██╗ ██╔╝ 
-██║     ██║  ██║██║  ██║   ██║   ██║  ██║██╗██████╔╝███████╗ ╚████╔╝  
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝  ╚═══╝   
-```
+# Hey there! I'm Parth 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%92%A1)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Problem+Solver+%26+Code+Craftsman+%F0%9F%92%A1" alt="Typing SVG" />
 
----
+<img src="https://komarev.com/ghpvc/?username=ParthKul01&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
-## 🧑‍💻 About Me
+---
 
-```javascript
-const parth = {
-    location: "India 🇮🇳",
-    education: "Computer Science Engineering",
-    cgpa: "9.1/10",
-    currentFocus: "Full Stack Development & Cloud Computing",
-    philosophy: "Dream big. Code smart. Build for impact.",
-    interests: ["Web Development", "Cloud Architecture", "Problem Solving", "Open Source"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    currentlyLearning: ["AWS DevOps", "System Design", "Microservices"],
-    askMeAbout: ["React", "Node.js", "AWS", "Data Structures"]
+## 🌟 About Me
+
+<img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  education: {
+    degree: string;
+    cgpa: string;
+  };
+  currentRole: string;
+  passions: string[];
+  currentlyExploring: string[];
+  techPhilosophy: string;
+}
+
+const parth: Developer = {
+  name: "Parth Kulkarni",
+  location: "India 🇮🇳",
+  education: {
+    degree: "Computer Science Engineering",
+    cgpa: "9.1/10 ⭐"
+  },
+  currentRole: "Full Stack Developer",
+  passions: [
+    "Building scalable web applications",
+    "Cloud architecture design",
+    "Open source contributions",
+    "Competitive programming"
+  ],
+  currentlyExploring: [
+    "AWS DevOps & Infrastructure",
+    "System Design Patterns",
+    "Microservices Architecture",
+    "Advanced React Patterns"
+  ],
+  techPhilosophy: "Write code that tells a story 📖"
 };
-
-console.log("Welcome to my GitHub profile! 🚀");
 ```
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark" />
+</p>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Cloud
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### ⚡ Backend & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,aws,docker,mongodb,mysql&theme=dark" />
+</p>
 
 ### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash,vim&theme=dark" />
+</p>
+
+### 📊 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&theme=dark" />
+</p>
 
 </div>
 
 ---
 
-## 🏆 Competitive Programming Journey
+## 🏆 Coding Journey & Achievements
 
 <div align="center">
+  
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/LeetCode-220%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a1a" />
+<br />
+<a href="https://leetcode.com/u/Parth_69/">
+<img src="https://img.shields.io/badge/-View%20Profile-58A6FF?style=for-the-badge" />
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CodeChef-300%2B%20Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a1a" />
+<br />
+<a href="https://www.codechef.com/users/parthkulkarni0">
+<img src="https://img.shields.io/badge/-View%20Profile-58A6FF?style=for-the-badge" />
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/GeeksforGeeks-60%2B%20Solved-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a1a" />
+<br />
+<a href="https://www.geeksforgeeks.org/user/kulkarnidrf8/">
+<img src="https://img.shields.io/badge/-View%20Profile-58A6FF?style=for-the-badge" />
+</a>
+</td>
+</tr>
+</table>
 
-### 🟡 LeetCode
-**220+ Problems Solved**  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Parth_69/)
+</div>
 
-### 🍴 CodeChef  
-**300+ Problems Solved**  
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/parthkulkarni0)
+---
 
-### 🟢 GeeksforGeeks
-**60+ Problems Solved**  
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kulkarnidrf8/)
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ParthKul01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthKul01&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" />
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKul01&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
@@ -93,33 +135,86 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ParthKul01&repo=File_Storing_Using_AWS&theme=tokyonight&border_color=00ffcc&title_color=00ffcc)](https://github.com/ParthKul01/File_Storing_Using_AWS)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ParthKul01&repo=Blood_Donation&theme=tokyonight&border_color=00ffcc&title_color=00ffcc)](https://github.com/ParthKul01/Blood_Donation)
+<table>
+<tr>
+<td width="50%">
+<div align="center">
+<a href="https://github.com/ParthKul01/File_Storing_Using_AWS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ParthKul01&repo=File_Storing_Using_AWS&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FFA500" />
+</a>
+</div>
+</td>
+<td width="50%">
+<div align="center">
+<a href="https://github.com/ParthKul01/Blood_Donation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ParthKul01&repo=Blood_Donation&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FFA500" />
+</a>
+</div>
+</td>
+</tr>
+</table>
+
+### 💡 Project Highlights
+- **☁️ AWS File Storage System** - Scalable file management with cloud integration
+- **🩸 Blood Donation Platform** - Community-driven healthcare solution
+- **🔧 More exciting projects** - Check out my repositories for additional work!
 
 </div>
 
 ---
 
-## 🎯 Current Goals
-
-- 🌟 Contributing to Open Source projects
-- ☁️ Mastering AWS Cloud Architecture  
-- 📚 Learning DevOps and CI/CD practices
-- 🤝 Building impactful projects that solve real problems
-- 📝 Writing technical blogs and sharing knowledge
-- 🚀 Exploring System Design patterns
-- 💡 Mentoring junior developers
-
----
-
-## 💬 Let's Connect!
+## 🎯 Current Focus & Goals
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arth-kulkarni/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url)
-[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://your-resume-link)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulkarniparth48@gmail.com)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
+- Advanced AWS Services & DevOps
+- System Design & Architecture
+- Microservices Patterns
+- Container Orchestration
+- CI/CD Pipeline Optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 2024 Goals
+- ✅ Master Full Stack Development
+- 🔄 Contribute to Open Source
+- 📚 Write Technical Blogs
+- 🤝 Mentor Junior Developers
+- 🏆 AWS Certification
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/arth-kulkarni/">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+<a href="mailto:kulkarniparth48@gmail.com">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+</a>
+<a href="https://your-portfolio-url">
+<img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
+</a>
+<a href="https://your-resume-link">
+<img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4" />
+</a>
+
+### 💬 Open to discuss:
+**Web Development** • **Cloud Architecture** • **Career Opportunities** • **Open Source Collaboration**
 
 </div>
 
@@ -127,11 +222,19 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 <div align="center">
 
-### 💭 Quote of the Day
-*"The best way to predict the future is to create it."* - Peter Drucker
+### 💭 Daily Inspiration
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20for%20machines%20to%20execute%20and%20humans%20to%20understand&author=Anonymous" />
 
 ---
 
-**✨ Thanks for visiting my profile! Feel free to explore my repositories and don't forget to star ⭐ if you find something interesting!**
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+---
+
+<h3>
+🌟 Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities! 🚀
+</h3>
+
+<sub>💡 Pro tip: Star ⭐ repositories you find interesting!</sub>
 
 </div>
